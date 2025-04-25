@@ -2,7 +2,7 @@
 
 ## About
 
-### I am Ravi Chandra Vedula
+*I am Ravi Chandra Vedula*
 
 I’m a Data Scientist and AI/ML practitioner with 17+ years of diverse experience spanning research, entrepreneurship, and applied data science. With over a decade in building and leading ventures, and 4+ years in data-driven research and analytics, my current focus is on leveraging machine learning and data science to solve complex, real-world problems.
 
