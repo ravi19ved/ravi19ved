@@ -2,9 +2,9 @@
 
 ## About
 
-**I am Ravi Chandra Vedula,**  an Alumni from BITS Pilani  ![BITS Alumni](https://img.shields.io/badge/Alumni-BITS_Pilani-E5562A?style=flat), have M.Tech in Data Science and Engineering.
+**I am Ravi Chandra Vedula,**  
 
-I’m a Data Scientist and AI/ML practitioner with 17+ years of diverse experience spanning research, entrepreneurship, and applied data science. With over a decade in building and leading ventures, and 4+ years in data-driven research and analytics, my current focus is on leveraging machine learning and data science to solve complex, real-world problems.
+I’m a Data Scientist and AI/ML practitioner with 17+ years of diverse experience spanning research, entrepreneurship, and applied data science. With over a decade in building and leading ventures, and 4+ years in data-driven research and analytics, my current focus is on leveraging machine learning and data science to solve complex, real-world problems.  I have pursued M.Tech in Data Science and Engineering from BITS Pilani.   ![BITS Alumni](https://img.shields.io/badge/Alumni-BITS_Pilani-E5562A?style=flat),
 
 
 - 🔭 I am currently working with INCOIS as a Project Scientst III on AUV (Autonomous Underwater Vehicles)
