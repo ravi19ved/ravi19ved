@@ -19,6 +19,5 @@ I’m a Data Scientist and AI/ML practitioner with 17+ years of diverse experien
 ##
 
 <!--
-This still need to be develpoed and have to write down. 
-- ⚡ Fun fact: 
+Data Scientist & AI/ML Practitioner | 17+ yrs experience | 4+ yrs in research & data science | 10+ yrs in entrepreneurship | Now focused on solving real-world problems with data.
 -->
