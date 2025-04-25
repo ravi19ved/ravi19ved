@@ -39,7 +39,24 @@ Certainly! Below is a **clean, professional, and visually appealing** GitHub pro
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)   ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)    ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)       ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)    ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)    ![PySpark](https://img.shields.io/badge/PySpark-F7931E?style=for-the-badge&logo=pyspark&logoColor=black)    ![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)    ![Apache Beam](https://img.shields.io/badge/Beam-0A8FDC?style=for-the-badge&logo=apachebeam&logoColor=white) 
 
 ---
+### **🔬 Research Tools**  
 
+### **🌊 Oceanographic Data Processing**  
+**Glider Data Analysis & Visualization**  
+
+#### **Core Python Libraries**  
+![Pyglider](https://img.shields.io/badge/Pyglider-0B5E8E?style=for-the-badge&logo=python&logoColor=white)   ![GliderTools](https://img.shields.io/badge/GliderTools-2A9D8F?style=for-the-badge&logo=pandas&logoColor=white)    ![DBDReader](https://img.shields.io/badge/DBDReader-FF9F1C?style=for-the-badge)  
+![SeaGlider](https://img.shields.io/badge/SeaGlider_Base_Station-003366?style=for-the-badge)    
+
+### **🛰️ Complementary Tools**  
+![NetCDF](https://img.shields.io/badge/NetCDF-0D6B96?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNDQ4IDMySENDMjEuNSAzMiAwIDUzLjUgMCA4MHYzNTJjMCAyNi41IDIxLjUgNDggNDggNDhoNDAwYzI2LjUgMCA0OC0yMS41IDQ4LTQ4VjgwYzAtMjYuNS0yMS41LTQ4LTQ4LTQ4eiIvPjwvc3ZnPg==&logoColor=white)    ![Xarray](https://img.shields.io/badge/Xarray-3D8FC3?style=for-the-badge)   ![ERDDAP](https://img.shields.io/badge/ERDDAP-1E6BA5?style=for-the-badge)  
+
+### **🔗 Field Deployment Stack**  
+![Seaglider](https://img.shields.io/badge/SeaGlider-005F89?style=for-the-badge)    ![Slocum](https://img.shields.io/badge/Slocum_Glider-0077B6?style=for-the-badge)    ![Teledyne](https://img.shields.io/badge/Teledyne-FF6600?style=for-the-badge)  
+
+
+
+---
 ### **🗃️ Databases & Data Storage**  
 
 #### **SQL Databases**  
