@@ -4,7 +4,7 @@
 
 **I am Ravi Chandra Vedula,**  
 
-I’m a Data Scientist and AI/ML practitioner with 17+ years of diverse experience spanning research, entrepreneurship, and applied data science. With over a decade in building and leading ventures, and 4+ years in data-driven research and analytics, my current focus is on leveraging machine learning and data science to solve complex, real-world problems.  I have pursued M.Tech in Data Science and Engineering from BITS Pilani.   ![BITS Alumni](https://img.shields.io/badge/Alumni-BITS_Pilani-E5562A?style=flat),
+I’m a Data Scientist and AI/ML practitioner with 17+ years of diverse experience spanning research, entrepreneurship, and applied data science. With over a decade in building and leading ventures, and 4+ years in data-driven research and analytics, my current focus is on leveraging machine learning and data science to solve complex, real-world problems.  I have pursued M.Tech in Data Science and Engineering from BITS Pilani.   
 
 
 - 🔭 I am currently working with INCOIS as a Project Scientst III on AUV (Autonomous Underwater Vehicles)
@@ -23,6 +23,7 @@ Certainly! Below is a **clean, professional, and visually appealing** GitHub pro
 ---
 
 ### **🧠 Data Science & Machine Learning**  
+![BITS Alumni](https://img.shields.io/badge/Alumni-BITS_Pilani-E5562A?style=flat)
 
 #### **Programming Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)    ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)    ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)    ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)     ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)      ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) 
