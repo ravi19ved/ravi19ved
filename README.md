@@ -45,12 +45,10 @@ Certainly! Below is a **clean, professional, and visually appealing** GitHub pro
 **Glider Data Analysis & Visualization**  
 
 #### **Core Python Libraries**  
-![Pyglider](https://img.shields.io/badge/Pyglider-0B5E8E?style=for-the-badge&logo=python&logoColor=white)   ![GliderTools](https://img.shields.io/badge/GliderTools-2A9D8F?style=for-the-badge&logo=pandas&logoColor=white)    ![DBDReader](https://img.shields.io/badge/DBDReader-FF9F1C?style=for-the-badge)  
-![SeaGlider](https://img.shields.io/badge/SeaGlider_Base_Station-003366?style=for-the-badge)    ![NetCDF](https://img.shields.io/badge/NetCDF-0D6B96?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNDQ4IDMySENDMjEuNSAzMiAwIDUzLjUgMCA4MHYzNTJjMCAyNi41IDIxLjUgNDggNDggNDhoNDAwYzI2LjUgMCA0OC0yMS41IDQ4LTQ4VjgwYzAtMjYuNS0yMS41LTQ4LTQ4LTQ4eiIvPjwvc3ZnPg==&logoColor=white)    ![Xarray](https://img.shields.io/badge/Xarray-3D8FC3?style=for-the-badge)   ![ERDDAP](https://img.shields.io/badge/ERDDAP-1E6BA5?style=for-the-badge)  
+![Pyglider](https://img.shields.io/badge/Pyglider-0B5E8E?style=for-the-badge&logo=python&logoColor=white)  ![GliderTools](https://img.shields.io/badge/GliderTools-2A9D8F?style=for-the-badge&logo=pandas&logoColor=white)  ![DBDReader](https://img.shields.io/badge/DBDReader-FF9F1C?style=for-the-badge)  ![SeaGlider](https://img.shields.io/badge/SeaGlider_Base_Station-003366?style=for-the-badge)   ![NetCDF](https://img.shields.io/badge/NetCDF-0D6B96?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNDQ4IDMySENDMjEuNSAzMiAwIDUzLjUgMCA4MHYzNTJjMCAyNi41IDIxLjUgNDggNDggNDhoNDAwYzI2LjUgMCA0OC0yMS41IDQ4LTQ4VjgwYzAtMjYuNS0yMS41LTQ4LTQ4LTQ4eiIvPjwvc3ZnPg==&logoColor=white)  ![Xarray](https://img.shields.io/badge/Xarray-3D8FC3?style=for-the-badge)   ![ERDDAP](https://img.shields.io/badge/ERDDAP-1E6BA5?style=for-the-badge)  
 
 ### **🔗 Field Deployment Stack**  
-![Seaglider](https://img.shields.io/badge/SeaGlider-005F89?style=for-the-badge)    ![Slocum](https://img.shields.io/badge/Slocum_Glider-0077B6?style=for-the-badge)    ![Teledyne](https://img.shields.io/badge/Teledyne-FF6600?style=for-the-badge)  
-
+![Seaglider](https://img.shields.io/badge/SeaGlider-005F89?style=for-the-badge)   ![Slocum](https://img.shields.io/badge/Slocum_Glider-0077B6?style=for-the-badge)   ![Teledyne](https://img.shields.io/badge/Teledyne-FF6600?style=for-the-badge)  
 
 
 ---
