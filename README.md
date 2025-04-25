@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+## About
 **ravi19ved/ravi19ved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 reach via linkedin or whats app +91-9985448989
 - 😄 Pronouns: he/him
 
+
+##
 
 <!--
 This still need to be develpoed and have to write down. 
