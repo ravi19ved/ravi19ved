@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 ## About
-**ravi19ved/ravi19ved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###I am Ravi Chandra Vedula
 
-Here are some ideas to get you started:
+I’m a Data Scientist and AI/ML practitioner with 17+ years of diverse experience spanning research, entrepreneurship, and applied data science. With over a decade in building and leading ventures, and 4+ years in data-driven research and analytics, my current focus is on leveraging machine learning and data science to solve complex, real-world problems.
+
 
 - 🔭 I am currently working with INCOIS as a Project Scientst III on AUV (Autonomous Underwater Vehicles)
 - 🌱 I am exploring the possibility of using AI/ML techniques to analyze, explore and manipulating data generated via AUV.
